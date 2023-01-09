@@ -3,10 +3,9 @@
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="iqra-abdi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/iqraabdifitax" target="blank"><img src="https://img.shields.io/twitter/follow/iqraabdifitax?logo=twitter&style=for-the-badge" alt="iqraabdifitax" /></a> </p>
 
 - 🌱 I’m currently learning **Java & C++**
 
@@ -14,11 +13,13 @@
 
 - 📫 How to reach me **ekroabdihussein@gmail.com**
 
+<p align="left"> <a href="https://twitter.com/iqraabdifitax" target="blank"><img src="https://img.shields.io/twitter/follow/iqraabdifitax?logo=twitter&style=for-the-badge" alt="iqraabdifitax" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iqraabdifitax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqraabdifitax" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iqra hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra hussein" height="30" width="40" /></a>
-<a href="https://fb.com/iqra abdi hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iqra abdi hussein" height="30" width="40" /></a>
 <a href="https://instagram.com/iqra_abdi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqra_abdi22" height="30" width="40" /></a>
 </p>
 
