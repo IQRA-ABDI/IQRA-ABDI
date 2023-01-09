@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Iqra AbdiFitax</h1>
 
-![logo](https://miro.medium.com/max/1400/1*Ag-ISNFsFGZIQaE1Y_s4Wg.jpeg
+![logo](https://miro.medium.com/max/1400/1*Ag-ISNFsFGZIQaE1Y_s4Wg.jpeg)
 <br>
 
 <h3 align="center">A passionate Software developer</h3>
