@@ -1,11 +1,19 @@
 
 <h1 align="center">Hey 👋, I'm Iqra AbdiFitax</h1>
 
-![logo](https://miro.medium.com/max/1400/1*Ag-ISNFsFGZIQaE1Y_s4Wg.jpeg)
+
+
+
 <br>
 
 <h3 align="center">A passionate Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
+<br>
+
+<img align="center" alt="Coding" width="1000"  height="200"  src="https://thumbs.dreamstime.com/b/creative-vector-illustration-stream-binary-code-computer-matrix-background-art-design-digits-screen-abstract-concept-118183925.jpg">
+
+<br>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <br>
 
