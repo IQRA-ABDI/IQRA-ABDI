@@ -6,13 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="iqra-abdi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iqraabdifitax" target="blank"><img src="https://img.shields.io/twitter/follow/iqraabdifitax?logo=twitter&style=for-the-badge" alt="iqraabdifitax" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java & C++**
 
 - 💬 Ask me about **Java & C++**
 
 - 📫 How to reach me **ekroabdihussein@gmail.com**
+
+<br>
+
+<p align="left"> <a href="https://twitter.com/iqraabdifitax" target="blank"><img src="https://img.shields.io/twitter/follow/iqraabdifitax?logo=twitter&style=for-the-badge" alt="iqraabdifitax" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
