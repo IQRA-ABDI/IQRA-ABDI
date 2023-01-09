@@ -3,9 +3,9 @@
 
 <h3 align="center">A passionate Software developer</h3>
 
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
 <br>
+
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="iqra-abdi" /> </p>
 
