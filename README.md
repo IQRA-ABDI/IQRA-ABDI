@@ -3,7 +3,6 @@
 <h1 align="center">Hey 👋, I'm Iqra AbdiFitax</h1>
 <h3 align="center">A passionate Software developer</h3>
 <br>
-
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
