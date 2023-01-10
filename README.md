@@ -14,7 +14,7 @@
 - 💬 Ask me about **Java & C++**
 
 - 📫 How to reach me **ekroabdihussein@gmail.com**
-- 
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/iqraabdifitax" target="blank"><img src="https://img.shields.io/twitter/follow/iqraabdifitax?logo=twitter&style=for-the-badge" alt="iqraabdifitax"/></a> </p>
