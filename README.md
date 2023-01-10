@@ -2,7 +2,6 @@
 
 <h3 align="center">A Passionate Software Developer</h3>
 
-
 <br>
 
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
