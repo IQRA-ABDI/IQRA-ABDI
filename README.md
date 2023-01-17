@@ -49,16 +49,7 @@
   
 # ⚙️ GitHub Analytics
 <br />
-<table>
-  <tr>
-    <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=IQRA-ABDI&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQRA-ABDI&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunBohra12&layout=compact&theme=dark" alt="Iqra Abdi "/></p>
