@@ -53,14 +53,20 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunBohra12&layout=compact&theme=dark" alt="Iqra Abdi "/></p>
+
 </div>
+<br>
+
+![iqra's github stats](https://github-readme-stats.vercel.app/api?username=IQRA-ABDI&title_color=66b6d2&icon_color=7cc0d8&text_color=2187ab&bg_color=00000000&show_icons=true&) 
 
 <br />
-
-# 📈 Contribution Graph 
+<div>
+         <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQRA-ABDI&theme=react&text_color=66b6d2&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
+</div>
+<!-- # 📈 Contribution Graph 
 <br />
 
-[![Iqra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iqra-abdi&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/IQRA-ABDI)
+[![Iqra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IQRA-ABDI&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/IQRA-ABDI) -->
 
 </div>
 
